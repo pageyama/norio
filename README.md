@@ -1,0 +1,2 @@
+# norio
+platform game core
